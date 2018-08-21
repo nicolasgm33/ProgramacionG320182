@@ -5,4 +5,5 @@ Repositorio para nuestras clases de programación grupo 3
 ## Contenidos
 
 - Semana 3: Introducción a Python
-- Funciones
+- Semana 4: Introducción a las Funciones
+- Semana 5: Reutilizado Funciones

@@ -33,7 +33,7 @@ todos participen de todas las fases:
     - Desarollador
 
 - Complete todos los campos de todas las funciones teniendo en cuenta
-la receta para la elboración de una función (Recuerde reutilizar las
+la receta para la elaboración de una función (Recuerde reutilizar las
 funciones)
 
 - Valide el funcionamiento con las pruebas de su documentación

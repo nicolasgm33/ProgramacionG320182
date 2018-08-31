@@ -12,6 +12,10 @@ def es_positivo(num):
     'el numero es negativo'
     >>> es_positivo(0)
     'el numero es positivo'
+    >>> es_positivo(7.89)
+    'el numero es positivo'
+    >>> es_positivo(-96852.2412)
+    'el numero es negativo'
 
     :param num: el numero a evaluar
     :return: (str) mensaje resultante de la evaluación

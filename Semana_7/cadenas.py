@@ -83,3 +83,4 @@ def es_palindromo(texto):
     """
     #return texto == ''.join(reversed(texto))
     return texto == texto[::-1]
+
